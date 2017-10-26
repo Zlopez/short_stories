@@ -4,7 +4,33 @@ Na nástupišti(1) bylo plno. Ostatně tu bylo téměř vždy plno. Lidé stáli
 
 Nástupiště samotné bylo poměrně komplikované. Spousta vlaků, lidí a nekonečná hlášení o odjezdech a příjezdech. Celé nádraží bylo umístěné v podzemí, ale většina cestujících nebe nikdy neviděla, takže tímto faktem nebyli znepokojeni. Na nadraží bylo spousta nástupišť(6). Nástupiště byla postavená vedle sebe a celá hala byla tak široká, že nebylo možné dohlédnout až ke stěnám. Ke každému nástupišti náleželo několik kolejí, které vedly někam do daleka. Zdálo se, že tyto koleje nikde nekončí, ale pak by nedávalo smysl hlášení o cílových a počátečních stanicích. Na každém nástupišti visela tabule, která oznamovala kam pojede jaký vlak. Tyto informace se měnily tak často, že občas nebylo možné postřehnout jaké informace patří ke kterému spoji.
 
-Mezi lidmi panovala poměrně ponurá atmosféra a každý si hleděl svého. Nikdo nechtěl, aby si ho všimla policie nebo aby zmeškal svůj vlak. Přesto, že shon na nástupištích vypadal jako neřízený chaos, existoval zde řád. Tento řád bylo možné rozeznat, když jste se zahleděli na oblečení jednotlivých lidí. Ti, kteří dodržovali frontu a nastupovali do vlaku spořádaně měli na sobě modré sako a černý příruční kufřík. Někteří měli na kufříku napsáno přísně tajné, jen do rukou příjemce(7). Pak zde byli lidé, kteří zdánlivě náhodně pobíhali po nástupištích. Tito byli oblečeni v zeleném saku a často za sebou táhli velký kufr(8).
+Mezi lidmi panovala poměrně ponurá atmosféra a každý si hleděl svého. Nikdo nechtěl, aby si ho všimla policie nebo aby zmeškal svůj vlak. Přesto, že shon na nástupištích vypadal jako neřízený chaos, existoval zde řád. Tento řád bylo možné rozeznat, když jste se zahleděli na oblečení jednotlivých lidí. Ti, kteří dodržovali frontu a nastupovali do vlaku spořádaně měli na sobě modré sako a černý příruční kufřík. Někteří měli na kufříku napsáno přísně tajné, jen do rukou příjemce(7). Pak zde byli lidé, kteří zdánlivě náhodně pobíhali po nástupištích. Tito byli oblečeni v zeleném saku a často za sebou táhli velký kufr(8). Velké skupiny lidí, které zdánlivě neněli konce, byly oblečeny ve žlutých sakách. Lidé, náchylní na infarkt, nosili červená saka. A policie chodila v černém. Každý měl svoji identifikační kartu, která určovala jeho jednoznačnou identifikaci. Odkud a kam cestuje, váha zavazadla a další důležité ůdaje.
+
+Každý z těchto lidí prožívá svůj vlastní příběh, který by určitě byl velmi zajímavý, ale nás zajímá jen jeden z těchto lidí. Náš muž stojí uprostřed fronty modrých sak, pevně svírá svůj malý kožený kufřik a nervózně se rozhlíží okolo sebe. V ničem se neliší od ostatních v modrém saku, ale jeho příběh brzy nabere obrátky. Jeho vlak má lehké zpoždění a většina cestujících začíná nervózně přešlapovat. Ale už se objevuje v dálce. Náš muž si jej pozorně prohlíží, protože takovýmto vlakem ještě nejel. Jedná se o jeden z těch rychlovlaků, které mají tvar střely a dokáží vyvinout velmi velké rychlosti(9). Celý vlak vypadal velmi moderně, nový nátěr elektricky ovládané dveře, průvodčí u každého vagónu. Ne, jako ten obyčejný vlak, kterým na nádraží přicestoval a který už od pohledu vypadal, jako by už dlouhou dobu přesluhoval(10). Ani rychlost nebyla nijak závratná, ale stále to bylo lepší než ty staré historické lokomotivy(11).
+
+Fronta se konečně pohla a nervozita opadla. Zelená saka se snažila prodrat dopředu a vůbec je nezajímalo, že někteří už tu delší dobu stojí ve spořádané frontě. Průvodčí každému zkontroloval jeho identifikační kartu a pustil jej do vozu. Jen pár incidentů musela řešit policie a to většinou neplatný doklad(12). Náš muž čekal než na něj přijde řada a postupně postupoval dopředu. Byl plně soustředěn na frontu před sebou, že si ani nevšiml, že vedle něj někdo stojí. Tento druhý muž měl také modré sako a nesl stejný kufřík jako náš muž. Co však nebylo správně, bylo, že stál vedle něj.
+
+"Dobrý den", pozdravil nový neznámý.
+
+"Tady by jste být neměl", odvětil náš muž.
+
+"Chtěl jsem se jen seznámit, když budu střídat kolegu za vámi."
+
+"Cože?"
+
+"Jak se tedy jmenujete?"
+
+"Jaká výměna, o čem to mluvíte?", nedokázal pochopit, co se kolem něj děje.
+
+"Rutinní výměna."
+
+"O tom jsem nikdy neslyšel."
+
+"Aaa, už jsou tady. Přesní jako hodinky."
+
+Nově příchozí se díval na přibližující se párek policistů, i když tito byli něčím zvláštní, i když náš muž nedokázal říct proč. Přišli k muži v modrém saku, který stál za ním a dožadovali se identifikace. Muž za ním zbledl, protože identifikační kartu nemohl najít.
+
+"Ještě teď jsem ji měl, musíte mi věřit."
 
 1) Nástupiště je v tomto případě router
 2) TCP pakety
@@ -14,3 +40,7 @@ Mezi lidmi panovala poměrně ponurá atmosféra a každý si hleděl svého. Ni
 6) Porty na routeru
 7) Šifrované spojení
 8) UDP pakety
+9) Gigabitová linka
+10) 100 Mbit
+11) 10 Mbit
+12) Timeout
