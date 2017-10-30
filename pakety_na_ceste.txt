@@ -54,6 +54,23 @@ Policisté nevypadali, že by je to nějak zajímalo. Chytili muže v modrém sa
 
 Augustus by asi rád vzal tyto slova zpátky, kdyby věděl, jak pravdivá jsou. Ale v tuhle chvíli ještě nemohl vědět, co je čeká. Karel už mu však neodpověděl, protože právě přišel na řadu na odbavení. 
 
+Vlak byl jedním z těch modernějších. S elektricky ovládanými dveřmi, hlášením zastávek přímo na palubě. U vchodu do vlaku jej zastavil průvodčí a s úsměvem na tváři po něm žádal doklady. Karel byl z toho trochu vedle, tohle byl první člověk na jeho cestě, který se k němu choval příjemně. Tedy pokud nepočítal Augusta, ale ten byl hodně zvláštní sám o sobě. Ta výměna mu stále ležela v hlavě. Proč by měl být někdo ve frontě vystřídán dříve než doručí zásilku. To nedávalo smysl.
+
+"Vaše identifikaci prosím", požádal průvodčí.
+
+Karel vytáhl identifikační kartu a ukázal ji průvodčímu.
+
+"Děkuji, přeji příjemnou cestu."
+
+Karel vstoupil do vlaku a následoval člověka, který stál před ním ve frontě. Nechtěl jej ztratit z dohledu, stejně jako si on hlídal toho před ním. Všichni v modrých oblecích museli sledovat toho, kdo stál ve frontě před nimi. Narušení tohoto řádu by mohlo vést ke katastrofálním koncům. Karel to sice ještě nikdy nezažil, ale slyšel, že pokud se fronta naruší, pustí se do toho ve velkém policie a někteří lidé z přerušené fronty se už nikdy neobjeví. Netušil, co je na tom pravdy, ale práci policie už viděl na vlastní oči a věděl, že je lepší se konfrontaci s nimi vyhnout. 
+
+Fronta se prostě musela zachovat. I její řád byl neměnný. Na začátku fronty byl delegát(15). Ten sice neměl kufřík, ale zastával důležitou roli, protože věděl, jaký je cíl cesty. Navíc vyjednával podmínky s člověkem v cílové stanici(16). Stejně tak byl na konci fronty další delegát, který zajišťoval, že papíry o předání budou řádně vyřízeny(17). Ale v rámci fronty si každý hlídal pouze toho před sebou. Karel měl rád tenhle stav věcí. Ten řád, který všemu dával smysl. Vše bylo při práci tak jasné a jednoznačné, že nebyl důvod nic zpochybňovat.
+
+Modré sako před ním zahnulo do kupé a Karel se vydal za ním. Kupé bylo vytvořeno tak, aby se v něm pohodlně posadili 4 lidé. Sedačky byly oddělené, takže skýtaly aspoň nějaké zdání komfortu. Kupé však bylo plné a tak Karel sedl do nejbližšího volného. Zde už seděl jeden člověk v červeném a jeden člověk ve žlutém saku.
+
+Muž v červeném saku vypadal nervózně a neustále pozoroval hodinky na zápěstí.
+
+
 1) Nástupiště je v tomto případě router
 2) TCP pakety
 3) Synchronizační procesy, předbíhající paket je mimo pořadí v TCP spojení
@@ -68,3 +85,6 @@ Augustus by asi rád vzal tyto slova zpátky, kdyby věděl, jak pravdivá jsou.
 12) Timeout
 13) Bystřejší čtenáři už pravděpodobně odhalili, že se jedná o útok Man in the Middle se záměnou packetů. V tomto případě se jednalo o záměnu jediného paketu v komunikaci, což sice v reálu nedává moc smysl, ale pro účely tohoto příběhu je to dostačující
 14) Mělo by se jednat o hash, v tomto případě jsem jej trochu zkrátil
+15) Jedná se o paket, který zajišťuje handshake
+16) Cílovou stanici je nějaký koncový bod (např.: počítač)
+17) FIN paket
