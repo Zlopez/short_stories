@@ -92,7 +92,61 @@ Muž v zeleném saku však udělal tu chybu, že na pozdrav odpověděl.
 
 Při zmínce o svém kufru muž v zeleném saku zbledl a polil ho pot. "Já.. já..," snažil se ze sebe dostat nějakou smysluplnou odpověď, která by odvedla konverzaci od jeho kufru.
 
-"Byl to jen vtip. Samozřejmě vím, že ten kufr jen převážíte." Augustus vykouzlil na tváři upřímný úsměv, který měl muže v zeleném saku pravděpodobně uklidnit. Což očividně fungovalo, ten se nervózně usmál a trochu se mu do obličeje vrátila barva.
+"Byl to jen vtip. Samozřejmě vím, že ten kufr jen převážíte." Augustus vykouzlil na tváři upřímný úsměv, který měl muže v zeleném saku pravděpodobně uklidnit. Což očividně fungovalo, muž se nervózně usmál a trochu se mu do obličeje vrátila barva.
+
+"Kam vlastně cestujete?" Nadhodil další otázku Augustus.
+
+"Jen do další stanice."
+
+Karel byl překvapen, že ten muž ví, kam cestuje. Jemu to nikdo nikdy neřekl, jen mu strčili kufřík do ruky, předali identifikační kartu a řekli běž za tamhletím mužem. Předpokládal, že se tato informace dá vyčíst z identifikační karty, ale nikdy ji tak podrobně nezkoumal.
+
+Muž v červeném saku zničehonic vyskočil a začal křičet. "Tak vyjede tento vlak někdy nebo budeme pořad stát na stanici!! Už teď mám zpoždění!" Pak se zase zhroutil do křesla a opět nervózně koukal na hodinky.
+
+Karel si teprve teď všiml, že vlak se ještě nerozjel. Natolik se soustředil na situaci kolem něj, že tuhle důležitou informaci úplně vytěsnil. Bylo zvláštní, že vlak ještě stál. Podíval se na nástupiště, zda nezahlédne důvod proč vlak ještě stojí. Žádné fronty lidí už před vlakem nestály. Dokonce ani průvodčí už nebyli na nástupišti a vlak přesto stál.
+
+"Co se děje?" Otázka přišla od muže v zeleném saku.
+
+"To nevím, ale na nástupišti už nikdo nestojí." Odpověděl Karel a snažil stále zahlédnout něco, co by vysvětlilo současnou situaci.
+
+Než však zahlédl nějaký důvod ozval se reproduktor nad jejich hlavami. "Vážení cestující omlouváme se za zdržení, ale policie nás kontaktovala a požádala o pomoc při hledání černého pasažéra. Vyčkejte v klidu na svých místech a předložte identifikaci, pokud k tomu budete vyzváni." (18)
+
+"Černý pasažér?! A kvůli tom tvrdneme tady?! Jdu si stěžovat!" S těmito slovy muž v rudém saku vstal a dral se ke dveřím.
+
+Augustus jej chytil za rukáv. "Zbláznil jste se? Vždyť tím porušujete nařízení policie."
+
+Muž v červeném saku se Augustovi prudce vytrhl, otevřel dveře a vyrazil do chodby.
+
+Karel koukal z okna a čekal, co se bude dít dál. Za chvíli zahlédl, jak policie odvádí muže v červeném saku pryč od vlaku. Vypadal naštvaně, stále mával identifikační kartou a něco pokřikoval. To už však ve vlaku nebylo slyšet. Chvíli na to se vlak začal rozjíždět.
+
+"Vypadá to, že už chytli svého černého pasažéra." Konstatoval Augustus.
+
+"Ano, byl to ten muž v červeném saku." Potvrdil mu Karel.
+
+"Vážně," žasl muž v zeleném saku, "jak to víte?"
+
+"Viděl jsem, jak ho odváděli, a chvíli na to se vlak rozjel."
+
+"To je opravdu zajímavé, takže ten černý pasažér byl v našem kupé. Kdo by to byl čekal?" Přidal se Augustus.
+
+Karlovi to však nedávalo smysl, kdyby ten muž věděl, že ho hledají, proč by šel přímo za nimi. Vypadal hodně nervózně, což by odpovídalo černému pasažérovi i to rozčilování nad stojícím vlakem by tomu odpovídalo, ale stále to připadalo Karlovi zvláštní.
+
+Předložil svou domněnku Augustovi v naději, že bude mít nějaké vysvětlení. Přece jen bylo vidět, že toho ví hodně.
+
+"Možná to byla součást převleku."
+
+"Jak to myslíte?" Zeptal se Karel.
+
+"Třeba chtěl utéct z vlaku dříve než jej najdou, tak ztropil scénu a vyběhl na chodbu v naději, že se mu podaří najít způsob jak utéct. Ale dříve než na ten způsob přišel, tak jej našli."
+
+"To zní docela logicky." Karel tomu sice úplně nevěřil, ale zatím to bylo jediné rozumné vysvětlení. Především mu stále nedávalo smysl, proč by na sebe tak upozorňoval. Kdyby byl on černým pasažérem určitě by se snažil chovat co nejméně nápadně. Ale je pravda, že v takové situaci nikdy nebyl, takže to byla jen jeho domněnka.
+
+"Snad už bude cesta probíhat bez problémů." Ozval se muž v zeleném saku.
+
+"Snad." Přitakal Augustus.
+
+Poté zavládlo v kupé ticho. Byl slyšet jen slabý svist větru v tunelu, kterým vlak projížděl. Na stropě svítilo světlo, které osvětlovalo ve tmě tunelu kupé. Karel zamyšleně koukal z okna, kde však nebylo vidět nic kromě šedé stěny tunelu. Jezdil takhle už dlouho, takže jej nemohl tenhle pohled ničím překvapit. Byl unavený, takže se pohodlně posadil a zavřel oči.
+
+"Příští stanice AP_TPL!" Ozvalo se z reproduktoru.
 
 
 1) Nástupiště je v tomto případě router
@@ -112,3 +166,4 @@ Při zmínce o svém kufru muž v zeleném saku zbledl a polil ho pot. "Já.. j�
 15) Jedná se o paket, který zajišťuje handshake
 16) Cílovou stanici je nějaký koncový bod (např.: počítač)
 17) FIN paket
+18) Jednoduchý firewall, který detekoval pozměněný paket
