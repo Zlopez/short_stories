@@ -146,8 +146,35 @@ Předložil svou domněnku Augustovi v naději, že bude mít nějaké vysvětle
 
 Poté zavládlo v kupé ticho. Byl slyšet jen slabý svist větru v tunelu, kterým vlak projížděl. Na stropě svítilo světlo, které osvětlovalo ve tmě tunelu kupé. Karel zamyšleně koukal z okna, kde však nebylo vidět nic kromě šedé stěny tunelu. Jezdil takhle už dlouho, takže jej nemohl tenhle pohled ničím překvapit. Byl unavený, takže se pohodlně posadil a zavřel oči.
 
-"Příští stanice AP_TPL!" Ozvalo se z reproduktoru.
+"Příští stanice AF:03:68:59:23:AA(19)!" Ozvalo se z reproduktoru.
 
+Karel se probral a ihned vstával. Potřeboval zkontrolovat, zda muž ve frontě před ním nevystupuje. Augustus jej však chytil za rukáv. 
+
+"Ještě tam nejsme." Na tváři měl svůj upřímný úsměv.
+
+"Jak tohle můžete vědět? Tohle ví jen delegát na začátku fronty."
+
+"To není tak docela pravda. Tu informaci má každý ve frontě, jen tomu na začátku ji řeknou rovnou." Karel na něj nedůvěřivě koukal a tak Augustus pokračoval ve vysvětlování. "Vidíte tu identifikační kartu, kterou máte sebou?"
+
+Karel sáhl do kapsy u saka a vytáhl svou identifikační kartu. "Ano, ale jsou na ní jen nějaké identifikační údaje, které jsou nečitelné."
+
+"Tyhle nejsou nečitelné. Kdokoli je může přečíst, jen musí vědět jak. Tady kolega v zeleném saku vám to určitě potvrdí."
+
+"Ano, je to pravda. Netušil jsem, že vy v modrých sakách je neumíte číst." Přidal se do hovoru muž v zeleném saku. "To by vysvětlovalo, proč tak usilovně sledujete toho před vámi."
+
+"To není jediný důvod." Osvětloval situaci Augustus. "Důvod proč mi v modrém saku sledujeme toho před námi je především to, že záleží na pořadí v jakém dorazíme do cíle. Zde občas nastane problém, pokud se všichni nevejdeme do jednoho vlaku. V takovém případě je poslán nový delegát, který zaujme místo v čele zbývající fronty. Občas je delegátem jmenován stávající muž v čele zbývající fronty, ale tato situace nastává zřídka."
+
+"Já osobně jsem takovou situaci nikdy nezažil." Ozval se Karel. "Ale vraťme se k té identifikační kartě. Jak tedy zjistím cílovou stanici?"
+
+Augustus společně s mužem v zeleném saku začali vysvětlovat Karlovi údaje na identifikační kartě. Mezitím dojel vlak do ohlášené stanice, vyložil a nabral cestující, a opět se rozjel.
+
+"...a takhle zjistíš svou cílovou stanici." Dokončil vysvětlování Augustus.
+
+"Není to až tak složité." Řekl překvapeným hlasem Karel. Ty znaky, co ještě před chvílí považoval za změt náhodně generovaných piktogramů náhle začaly dávat smysl.
+
+"Já jsem ti říkal, že to není až tak složité." Prohlásil vítězoslavně Augustus. 
+
+Dobrá nálada v kupé však neměla dlouhého trvání. První se ozvalo skřípění brzd, pak hrozný rachot a nakonec výkřiky bolesti a paniky. Vlak do něčeho narazil a začal ztrácet rovnováhu na kolejích. Houpal se jako kyvadlo v hodinách než překročil únosnou mez a začal se převracet.
 
 1) Nástupiště je v tomto případě router
 2) TCP pakety
@@ -167,3 +194,4 @@ Poté zavládlo v kupé ticho. Byl slyšet jen slabý svist větru v tunelu, kte
 16) Cílovou stanici je nějaký koncový bod (např.: počítač)
 17) FIN paket
 18) Jednoduchý firewall, který detekoval pozměněný paket
+19) MAC adresa síťového prvku
