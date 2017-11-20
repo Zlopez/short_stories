@@ -170,11 +170,28 @@ Augustus společně s mužem v zeleném saku začali vysvětlovat Karlovi údaje
 
 "...a takhle zjistíš svou cílovou stanici." Dokončil vysvětlování Augustus.
 
-"Není to až tak složité." Řekl překvapeným hlasem Karel. Ty znaky, co ještě před chvílí považoval za změt náhodně generovaných piktogramů náhle začaly dávat smysl.
+"Není to až tak složité." Řekl překvapeným hlasem Karel. Ty znaky, co ještě před chvílí považoval za změť náhodně generovaných piktogramů náhle začaly dávat smysl.
 
 "Já jsem ti říkal, že to není až tak složité." Prohlásil vítězoslavně Augustus. 
 
-Dobrá nálada v kupé však neměla dlouhého trvání. První se ozvalo skřípění brzd, pak hrozný rachot a nakonec výkřiky bolesti a paniky. Vlak do něčeho narazil a začal ztrácet rovnováhu na kolejích. Houpal se jako kyvadlo v hodinách než překročil únosnou mez a začal se převracet.
+Dobrá nálada v kupé však neměla dlouhého trvání. První se ozvalo skřípění brzd, pak hrozný rachot a nakonec výkřiky bolesti a paniky. Vlak do něčeho narazil a začal ztrácet rovnováhu na kolejích (20). Houpal se jako kyvadlo v hodinách než překročil únosnou mez a začal se převracet. Vše probíhalo jako ve zpomaleném filmu. Kupé se nejdříve celé pomalu zhouplo na jednu stranu a poté na druhou. Všichni tři cestující v kupé se křečovitě drželi čehokoli, co bylo zrovna po ruce. Karel se držel opěrky sedadla. Augustus se chytil dveří a muž v zeleném saku se držel poličky na zavazadla. Každý z nich se snažil druhou rukou udržet svoje zavazadlo. V tuto dobu už se kupé pomalu převracelo na bok. Karel zahlédl jiskry za oknem v uličce, od toho, jak vlak dřel bokem o koleje.
+
+Tohle nemůžeme přežít, pomyslel si Karel. A pak vše upadlo do tmy.
+
+Probudil se a nad ním klečel muž v zeleném saku. "Probral se!" Křičel na někoho za ním. Odněkud zezadu přiběhl Augustus.
+
+"Mysleli jsme, že jsme tě ztratili," jeho úsměv byl docela uklidňující, i když jeho obličej teď byl špinavý a zdobilo jej i několik nových oděrek a ran. "Jak se cítíš? Utrpěl si docela ošklivou ránu do hlavy."
+
+Karel nemohl nesouhlasit. Hlava ho bolela, jako by po ní dostal kladivem a těžko si uvědomoval, co se vlastně stalo. Pamatoval si, že se vlak začal převracet, ale to teď nebylo důležité. První musel zkontrolovat, jak je na tom. Zkusil pohnout rukama. Vypadalo, že ho poslouchají, takže v pořádku. Pak to samé zkusil s nohama, opět to skončilo úspěchem. Vypadalo to, že kromě té bolesti hlavy mu není vůbec nic. 
+
+"Jsem v pořádku," odpověděl na Augustovu otázku.
+
+"To jsem rád," řekl s úsměvem, "a teď mě omluv, musím nás dostat z tohoto kupé." S těmito slovy se zvedl a odešel z Karlova zorného pole.
+
+Když zůstal pouze s mužem v zeleném saku, snažil se rozhlédnout kolem sebe. Poznal, že to bylo jejich kupé a on leží na jedné ze sedaček. Ze své polohy odhadl, že vagón se úplně nepřevrátil, ale jen naklonil. Naproti sobě viděl dveře kupé, které byly zkroucené do takové polohy, že jej bylo možné otevřít už jen heverem. U druhé sedačky stál muž v zeleném saku a pozoroval ho. Nahoře na polici viselo jeho zavazadlo.
+
+Můj kufřík! Rozpomněl se Karel.
+
 
 1) Nástupiště je v tomto případě router
 2) TCP pakety
@@ -195,3 +212,4 @@ Dobrá nálada v kupé však neměla dlouhého trvání. První se ozvalo skří
 17) FIN paket
 18) Jednoduchý firewall, který detekoval pozměněný paket
 19) MAC adresa síťového prvku
+20) Vada na síťovém kabelu
