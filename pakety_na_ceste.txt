@@ -210,6 +210,42 @@ Při dalším pokusu jej Augustus podpíral a společně s mužem v zeleném sak
 
 "Myslím, že to nějak zvládnu." Karel o tom sice nebyl úplně přesvědčen, ale doufal, že to aspoň přesvědčivě zní.
 
+První vylezl ven Augustus, poté opatrně protáhli Karla a nakonec se ven dostal muž v zeleném saku, který měl problémy se svým objemným zavazadlem. Teprve teď Karel viděl rozsah škod. Lokomotiva ležela na boku mimo kolej, za ní byly v různém stavu položení vagóny. Některé ležely úplně na boku, stejně jako lokomotiva, jiné byly pouze nakloněné na jednu nebo druhou stranu, jako ten, z kterého právě Karel vylezl. Po celé délce vlaku vylézali lidé z oken či dveří. Někde vepředu se snažil situaci řídit průvodčí. Augustus opřel Karla o vagón a vykročil sebevědomě přímo k průvodčímu. Chvíli se s ním bavil. Karel nerozuměl tomu, o čem mluvili, ale viděl, že průvodčí naštvaně rozhazuje rukama, jako by už po sté musel zodpovídat ty samé otázky. Augustus průvodčího se zájmem poslouchal a poté se vrátil ke skupince.
+
+"Vypadá to bledě," začal vysvětlovat Augustus, když se vrátil, "není tu signál a není se tedy možné spojit s nejbližší stanicí, ani varovat další vlaky, že se tu stala nehoda. Je velmi pravděpodobné, že příští vlak narazí do našeho vlaku, pokud včas nezpomalí. S tím také souvisí to, že nepřijde žádná pomoc. Vypadá to, že se teď budeme muset postarat sami o sebe."
+
+To, že do nich narazí příští vlak, bylo více než pravděpodobné. Tunel v těchto místech nebyl moc široký a navíc byl úplně zablokován jejich vlakem.
+
+"A co výhybky?" Zeptal se Karel. "Můžeme přece poslat vlak na další kolej pomocí výhybky?"
+
+"Můžeme to probrat s průvodčím." Přidal se do diskuze muž v zeleném saku.
+
+"Můžeme to předložit na shromážděni. Skoro jsem zapomněl, máme se všichni shromáždit kolem průvodčích, a pak se rozhodne co dál."
+
+Vydali se k průvodčímu, s kterým před tím Augustus mluvil. Kolem něj už v hloučku stálo několik lidí a další přicházeli. Karel nedokázal odhadnout, kolik cestujících vlastně chybí. Na všechny shromážděné byl však smutný pohled, každý byl špinavý a jeho oblečení bylo potrhané. Někteří měli dokonce různá zranění či nedokázali bez cizí pomoci ani chodit, podobně jako Karel. Každý z nich však držel svoje zavazadlo, to bylo teď to jediné, na co se mohli upnout, co jim dávalo nějaký pocit jistoty.
+
+"... především je potřeba, aby jste zachovali klid." Vysvětloval zrovna průvodčí. "Panika nikomu nepomůže. Pak musíme získat přehled o naší situaci a nakonec vymyslet, co s ní můžeme dělat. Vidím, že už je většina tady. Mám tady seznam cestujících, budete ke mně chodit a říkat mi jména a já si vás budu odškrtávat, abychom zjistili, kdo chybí."
+
+"A co záchrana?" Zeptal se někdo z cestujících. "Kdy tu budou?"
+
+"A co další vlaky?" Zeptal se někdo další. "Nenarazí do nás?"
+
+"Všechny vaše otázky budou zodpovězeny, ale první projdeme seznam cestujících." Trval na svém průvodčí.
+
+"Tohle není dobré." Řekl Augustus Karlovi tak, aby to nikdo neslyšel.
+
+"O čem to mluvíš?" Zeptal se Karel.
+
+"Každé zavazadlo má v sobě určitý časovač(21). Ten pokud vyprší nebo je zničen, odešle signál a za každého cestujícího bude vypravena náhrada, pak už nikoho nebude zajímat, co se s námi stalo."
+
+"Cože? To nás jako nechají všechny umřít?"
+
+"Ne tak docela, jakmile začnou zavazadla odesílat signál, tak sem pošlou policii, která to tu vyklidí."
+
+"Jak to myslíš, vyklidí?"
+
+"Odstraní jakékoli známky toho, že tu někdy nějaká nehoda byla a to včetně pasažérů."
+
 
 1) Nástupiště je v tomto případě router
 2) TCP pakety
@@ -222,7 +258,7 @@ Při dalším pokusu jej Augustus podpíral a společně s mužem v zeleném sak
 9) Gigabitová linka
 10) 100 Mbit
 11) 10 Mbit
-12) Timeout
+12) Kontrola CRC
 13) Bystřejší čtenáři už pravděpodobně odhalili, že se jedná o útok Man in the Middle se záměnou packetů. V tomto případě se jednalo o záměnu jediného paketu v komunikaci, což sice v reálu nedává moc smysl, ale pro účely tohoto příběhu je to dostačující
 14) Mělo by se jednat o hash, v tomto případě jsem jej trochu zkrátil
 15) Jedná se o paket, který zajišťuje handshake
@@ -231,3 +267,4 @@ Při dalším pokusu jej Augustus podpíral a společně s mužem v zeleném sak
 18) Jednoduchý firewall, který detekoval pozměněný paket
 19) MAC adresa síťového prvku
 20) Vada na síťovém kabelu
+21) Connection timeout
