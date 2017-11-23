@@ -246,6 +246,68 @@ Vydali se k průvodčímu, s kterým před tím Augustus mluvil. Kolem něj už 
 
 "Odstraní jakékoli známky toho, že tu někdy nějaká nehoda byla a to včetně pasažérů."
 
+"To nemůžou, to by se už dávno vědělo."
+
+"Když nezůstanou svědci, tak není kdo by to vynesl na světlo. O kolika podobných nehodách jsi slyšel?"
+
+"O žádné, ale to co potkalo nás může být něco velmi nepravděpodobného."
+
+"Není, věř mi."
+
+"Proč bych ti vlastně měl věřit a jak to vlastně všechno víš?"
+
+"Nemusíš mi věřit, ale budeš to riskovat? Dle mého máš dvě možnosti, můžeš tady zůstat a počkat, jestli se to opravdu stane, nebo se pokusíme s tím něco udělat."
+
+Karel si všiml, že se Augustus vyhnul otázce ohledně jeho znalostí celé situace, ale nechal si to pro sebe, místo toho řekl. "Řekněme, že máš teoreticky pravdu. Co bychom s tím mohli asi tak dělat?"
+
+"Předtím jsi se zmínil o výhybkách. Mohli bychom ji přehodit a potom nějak upozornit přijíždějící vlak na to, že tu jsme."
+
+"A co ti ostatní, co tu jsou?"
+
+"Slyšel jsi průvodčího, první chtějí zjistit, kdo přežil. Teprve potom začnou něco řešit a to už může být pozdě."
+
+"Takže navrhuješ, abychom mi dva situaci vyřešili sami?"
+
+"A máme snad na výběr?"
+
+Karel se nad tím zamyslel. Asi vážně na výběr neměli. Pokud někdo něco rychle nepodnikne, nebudou mít šanci. Další vlak by navíc skončil stejně. I když historce s policií Karel nevěřil, musel uznat, že blížící se vlak je opravdové nebezpečí. Netušil však, jak daleko je nejbližší rozcestí, kde by mohli přehodit výhybku a zda další vlak opravdu zpomalí natolik, aby nevykolejil. Stále zůstávala spousta rizik, ale pořád to bylo lepší, než jen čekat, kdy přijede další vlak a narazí do nich. "Jdu s tebou." Řekl nakonec.
+
+"Super, doufal jsem, že se na tebe mohu spolehnout. Dokážeš už chodit sám?"
+
+Karel zkusil vykročit, hlava se mu sice stále pořád motala, ale už to bylo lepší. "Myslím, že to zvládnu."
+
+"Tak vyrazíme."
+
+Nechali shromáždění za sebou a vyšli směrem, kterým přijeli.
+
+Chodba byla temná a dlouhá. Tunel osvětlovala pouze osvětlením, které bylo pravděpodobně určené pro údržbu tunelu. Karel si nebyl jistý, jak dlouho vlastně šli. Cesta se mu zdála dlouhá a monotónní. Augustus šel kousek před ním, ale nevypadal, že by si chtěl povídat. Asi nad něčím přemýšlel. 
+
+S konverzací tedy tentokrát začal Karel. "Můžu mít otázku Auguste?"
+
+"Jistě, ptej se." Pravděpodobně měl na obličeji zase ten svůj úsměv.
+
+"Nemohl jsem si nevšimnout, že se vyhýbáš odpovědi na otázku o tvých vědomostech. Jak je možné, že toho tolik víš?"
+
+Augustus si oddechl, čekal, že tato otázka dříve či později přijde. "Já nejsem jako ty nebo ostatní cestující, toho už jsi si nejspíše všiml. Já nejsem z tohoto světa (22)."
+
+Karel na něj nevěřícně hleděl. "Jak to myslíš, že nejsi z tohoto světa? Co to sakra má znamenat?"
+
+"Co kdybych ti řekl, že tento svět je jen jedním z mnoha a většina z nich je propojena v jeden mnohem větší(23). Já přišel z těchto propojených světů. Mým cílem je dostat se mezi vás a přijít na způsob, jak váš svět propojit s ostatními."
+
+Na Karla tohle bylo moc, v těch několika větách se mu zhroutil celý jeho svět. Pevně si přitiskl svůj kufřík k hrudi, protože to byla teď jediná jistota, co měl.
+
+Augustus si toho všiml. "Přemýšlel jsi někdy, co vlastně přepravuješ? Co je tak cenného, že tvůj život má menší cenu než obsah toho kufříku? Kolik lidí muselo zemřít, než jsi ten kufřík dostal ty?(24)"
+
+"Ne, ne, ne." Snažil se Karel popřít to, co mu Augustus říkal. "Já jsem první, který tu informaci dostal k opatrování. Byl jsem jediný dostatečně spolehlivý, aby mu ji mohli svěřit."
+
+"Opravdu si myslíš, že tuto pohádku neslyšelo X lidí před tebou. Že tě opravdu považují za natolik spolehlivého? Prober se, všechny vás jen zneužívají."
+
+"A co je tedy v tom pitomém kufříku?!" Karel už málem křičel, neschopen přijmout to, co mu Augustus povídal.
+
+"Pravděpodobně nějaké tajné dokumenty, které jsou schovávány před světem. To v podstatě není až tak důležité. Co je důležité, je že nejsou dostupné i pro ostatní světy. A to chci změnit."
+
+"Jestli je to opravdu tak, jak říkáš, jak by jsi to chtěl změnit?" Karlovi už bylo pomalu do breku, nedokázal tyhle informace přijmout, ale věřil, že je to pravda.
+
 
 1) Nástupiště je v tomto případě router
 2) TCP pakety
@@ -268,3 +330,6 @@ Vydali se k průvodčímu, s kterým před tím Augustus mluvil. Kolem něj už 
 19) MAC adresa síťového prvku
 20) Vada na síťovém kabelu
 21) Connection timeout
+22) Světem je zde myšlena oddělená síť. Síť, ve které se tento příběh odehrává je odříznuta od internetu a jedná se o uzavřenou síť. Augustus se do této sítě dostal na USB flash vložené do jednoho z počítačů uvnitř sítě.
+23) Internet
+24) Bezpečnostní opatření v síti, ve které se příběh odehrává. Všechny stopy po jakékoli komunikaci jsou po doručení zničeny. To znamená veškeré logy o dané komunikaci na jednotlivých zařízeních v síti. Každý packet, který přenášel informaci, kterou má teď Karel, je vymazán z jakýchkoli záznamů. V mém příběh je to považováno za vraždu, protože to je jako by paket nikdy neexistoval.
