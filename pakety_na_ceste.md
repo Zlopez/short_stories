@@ -350,6 +350,14 @@ Takže to neskončilo. Karel doufal, že po tomhle už prostě vše bude v poř�
 
 "Jen dvě zastávky, pak už budeme tam, kam se potřebuji dostat. A odkud můžu vše tohle změnit. Ale teď se zvedej, musíme najít vhodnou skrýš."
 
+"Jakou skrýš?" Karel nad tím už chvíli přemýšlel, než tu otázku vyslovil nahlas. Kde se schovat? Na toaletě? Ne, to je první místo, kde by průvodčí hledal černého pasažéra. Co takhle sednout do kupé a předstírat, že už tam sedíme od minulé zastávky? To by taky nešlo, průvodčí má seznam všech cestujících, kdyby je našel, hned by poznal, že nemají ve vlaku co dělat. Ale kam se tedy ukrýt.
+
+"Pojď za mnou." Augustus byl sebevědomý jako vždy a Karel přemýšlel, co může Augustus vědět, co on neví.
+
+Augustus šel podél kupé, což připadalo Karlovi hodně nebezpečné. Co když si někdo všimne, že tady nemají co dělat. Přesto se snažil stejně jako Augustus vypadat sebevědomě a nenápadně. Netušil nakolik je jeho vystupování důvěryhodné, ale zatím to zabíralo. Nikdo si jich téměř nevšiml, každý si hleděl svého kufříku a po nich dvou maximálně hodil krátký pohled. Každý z těch lidí teď připadal Karlovi jako kachna urputně hlídající své vejce. Akorát by ta kachna musela být hodně depresivní. Viděl nyní věci mnohem jasněji než jindy. Ta ponurá atmosféra, kterou bral dříve jako samozřejmost, na něj nyní působila velmi skličujícím dojmem.
+
+Konečně se zastavili před jedním kupé, kde seděli dva muži v červeném saku. Augustus se otočil ke Karlovi. "Teď se snaž všechno dělat podle mě."
+
 
 1) Nástupiště je v tomto případě router
 2) TCP pakety
